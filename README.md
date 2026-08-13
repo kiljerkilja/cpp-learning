@@ -7,3 +7,7 @@ my C++ learning journey before enrolling into cs uni
 in helloworld.cpp i practiced namespaces, single char variables, booleans, strings , and constants 
 
 in progress2.cpp i tampered with arithmetic operators, type conversion , user input and tried making my own simple calculator with what i have already learned 
+
+
+(august 14 2026) i created a basic calculator that calculates the area of a triangle using the given user input. very simple good for practice.
+--in if statements i created a grade checker system to check if the student (user) managed to pass the exam or not. in the ifstatements_updated.cpp i made it give the user a proper grade.
