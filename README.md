@@ -11,3 +11,5 @@ in progress2.cpp i tampered with arithmetic operators, type conversion , user in
 
 (august 14 2026) i created a basic calculator that calculates the area of a triangle using the given user input. very simple good for practice.
 --in if statements i created a grade checker system to check if the student (user) managed to pass the exam or not. in the ifstatements_updated.cpp i made it give the user a proper grade.
+
+been a while since i updated this but i worked on while loops you can see it in whileloops.cpp
