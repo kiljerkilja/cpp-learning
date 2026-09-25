@@ -15,3 +15,5 @@ in progress2.cpp i tampered with arithmetic operators, type conversion , user in
 been a while since i updated this but i worked on while loops you can see it in whileloops.cpp
 
 added the basic guessing number game for practice you can check the code
+
+added a basic random number generator 
